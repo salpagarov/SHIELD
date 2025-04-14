@@ -1,9 +1,9 @@
 package main
 
 import (
-	"atrax.tech/SHIELD/database"
+	"SHIELD/mainframe"
 )
 
 func main() {
-	database.Init()
+	mainframe.Init_API()
 }
