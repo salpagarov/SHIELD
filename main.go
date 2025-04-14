@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	mainframe.Init_API()
+	mainframe.Update()
 }
